@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the paper below."
+title: "Detrital supply suppresses deforestation to maintain healthy kelp forest ecosystems"
+authors:
+  - family-names: Stier
+    given-names: Adrian C.
+preferred-citation:
+  type: article
+  title: "Detrital supply suppresses deforestation to maintain healthy kelp forest ecosystems"
+  year: 2022
+  journal: "ecology"
+  doi: 10.1002/ecy.3673
